@@ -1,0 +1,21 @@
+# Rust
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+.pytest_cache/
+venv/
+*.pyc
+
+# Env & secrets
+.env
+.env.dev
+.env.example
+serviceAccountsKey.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+node_modules/
